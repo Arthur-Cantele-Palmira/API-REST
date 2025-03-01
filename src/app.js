@@ -5,6 +5,6 @@ const app = express()
 
 app.use(routes)
 
-app.use(express.json()) //No express, ler body com JSON
+app.use(express.json())
 
 export default app

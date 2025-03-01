@@ -50,4 +50,10 @@ DELETE /alunos/:id
 
 ## 🖼️ IMAGENS
 ![Image](https://github.com/user-attachments/assets/4bd5ac19-c443-47ad-9d2e-c57b29b65f0e)
+O banco de dados `db_escola` contém uma tabela chamada `alunos`. A tabela `alunos` possui três colunas:
+
+- `id`: Identificador único do aluno
+- `nome`: Nome do aluno
+- `sala`: Sala em que o aluno está matriculado
+
 ![image](https://github.com/user-attachments/assets/d958114f-eb80-4e11-8062-af8d0e410768)
